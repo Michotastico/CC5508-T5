@@ -61,8 +61,6 @@ class Segmentation:
 
         return_image = image.astype(original_type)
 
-
-
         colors = []
         for i in range(0, width * height):
             colors.append(Functions.random_rgb())

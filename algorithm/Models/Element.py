@@ -13,11 +13,11 @@ class Element:
     def get_c(self):
         return self.c
 
-    def set_a(self, w):
-        self.a = w
+    def set_a(self, a):
+        self.a = a
 
-    def set_b(self, a):
-        self.b = a
+    def set_b(self, b):
+        self.b = b
 
-    def set_c(self, b):
-        self.c = b
+    def set_c(self, c):
+        self.c = c
