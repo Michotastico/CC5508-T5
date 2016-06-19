@@ -1,0 +1,13 @@
+Time table
+Sigma: 0.5; Threshold: 500
+Image: Images/gs_image_1.jpg; Elapsed time: 0:00:10.813000
+Image: Images/gs_image_2.jpg; Elapsed time: 0:00:09.488000
+Image: Images/gs_image_3.jpg; Elapsed time: 0:00:14.995000
+Image: Images/gs_image_4.jpg; Elapsed time: 0:00:10.844000
+Image: Images/gs_image_5.png; Elapsed time: 0:00:05.442000
+Image: Images/Img6.jpg; Elapsed time: 0:00:39.907000
+Image: Images/Img7.jpg; Elapsed time: 0:00:27.983000
+Image: Images/Img8.png; Elapsed time: 0:01:04.024000
+Image: Images/Img9.png; Elapsed time: 0:00:29.561000
+Image: Images/Img10.jpg; Elapsed time: 0:00:03.505000
+Image: Images/Img11.png; Elapsed time: 0:00:45.590000
